@@ -1,3 +1,5 @@
 # psudo-terminal
 Psudo terminal using python
-<img src="http://icons.iconarchive.com/icons/alecive/flatwoken/128/Apps-Terminal-icon.png" style=" width:100px ; height:100px " />
+
+
+<img src="https://raw.githubusercontent.com/saurabhlondhe/psudo-terminal/master/python%20%3A%20sh%20%E2%80%94%20Konsole_016.png" style=" width:100px ; height:100px " />
